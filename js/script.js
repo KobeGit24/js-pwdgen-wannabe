@@ -1,8 +1,10 @@
-// SEZIONE RICHIESTE
+// IMPOSTAZIONE VARIABILI
 
 var name = prompt('Inserisci il tuo nome');
 var surname = prompt('Inserisci il tuo cognome');
 var color = prompt('Inserisci il tuo colore preferito');
+
+// SEZIONE RICHIESTE E COMPILAZIONE
 
 document.getElementById('myname').innerHTML = name;
 
