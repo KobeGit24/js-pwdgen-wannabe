@@ -18,8 +18,9 @@
 }
 
 #login p {
-  color: rgb(255, 0, 0);
+  color: rgb(17, 127, 241);
   font-weight: bold;
+  font-size: 18px;
 }
 
 #login .profile-section {
@@ -33,4 +34,8 @@
   color: #fff;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+#login .profile-section #password {
+  color: rgb(255, 0, 0);
 }
